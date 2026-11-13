@@ -22,4 +22,4 @@ I also run [Meltek](https://meltek.com.au), building production apps end to end:
 ### Stack
 React TypeScript Node.js GraphQL TanStack React Native / Expo Firebase AWS · familiar with Java and Go
 
-🌐 [Portfolio](https://tonymelek.github.io/myportfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+🌐 [Portfolio](https://tonymelek.github.io/myportfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/tonymelek)
