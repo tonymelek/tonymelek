@@ -14,7 +14,7 @@ I build and design platform-scale web apps at *NAB*: React, TypeScript, Node and
 ### Meltek — my software studio
 I also run [Meltek](https://meltek.com.au), building production apps end to end:
 - *[Meltek Bookkeeper](https://bookkeeper.meltek.com.au)*: AI receipt extraction (Gemini), invoicing, bank CSV import and auto-reconciliation
-- *[Coptic Dating](https://coptic-dating.com)*: verified matching and real-time chat
+- *[Coptic Dating](https://coptic-dating-app.web.app/))*: verified matching and real-time chat
 - 5 open-source npm packages, including [coptic-readings](https://www.npmjs.com/package/coptic-readings)
 
 > Older repos are bootcamp and weekend learning projects; my production work is at NAB (private) and Meltek.
